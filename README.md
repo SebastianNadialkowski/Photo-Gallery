@@ -1,5 +1,5 @@
 /* Photo Gallery App */
-
+https://sebastiannadialkowski.github.io/Photo-Gallery/
 /*
 This repository contains a web application for showcasing a photo gallery. The app allows users to view and interact with a collection of photos in a dynamic and immersive way.
 
